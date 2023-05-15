@@ -13,5 +13,6 @@ http:
     - "nomo.dafork.com"
 
 script-provider:
-    nomo.js: https://raw.githubusercontent.com/yqc007/QuantumultX/master/NoMoCamProCrack.js
+    nomo.js: 
+    url: https://raw.githubusercontent.com/yqc007/QuantumultX/master/NoMoCamProCrack.js
     interval: 86400
